@@ -62,7 +62,7 @@ enableEmoji = true
 
 [[params.socialIcons]]
   name = 'telegram'
-  url = 'https//t.me/nightnoryu'
+  url = 'https://t.me/nightnoryu'
 
 [[params.socialIcons]]
   name = 'github'
