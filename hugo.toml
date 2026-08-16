@@ -1,0 +1,3 @@
+baseURL = 'https://cadence.app/'
+locale = 'en-us'
+title = 'Cadence'
