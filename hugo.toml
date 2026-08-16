@@ -66,7 +66,7 @@ enableEmoji = true
 
 [[params.socialIcons]]
   name = 'github'
-  url = 'https://github.com/nightnoryu'
+  url = 'https://github.com/nightnoryu/cadence-backend'
 
 [params.label]
   text = 'Cadence'
