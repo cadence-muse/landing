@@ -2,3 +2,74 @@ baseURL = 'https://cadence.app/'
 locale = 'en-us'
 title = 'Cadence'
 theme = 'PaperMod'
+
+enableRobotsTXT = true
+enableEmoji = true
+
+# ---------------
+# Navigation
+# ---------------
+
+[[menu.main]]
+  identifier = 'home'
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about/'
+  weight = 2
+
+[[menu.main]]
+  identifier = 'faq'
+  name = 'FAQ'
+  url = '/faq/'
+  weight = 3
+
+[[menu.main]]
+  identifier = 'app'
+  name = 'Open App'
+  url = 'https://cadence.app/'
+  weight = 4
+
+[[menu.main]]
+  identifier = 'apk'
+  name = 'Download APK'
+  url = 'https://github.com/nightnoryu/cadence-client/releases/'
+  weight = 5
+
+# ---------------
+# Homepage
+# ---------------
+
+[params.profileMode]
+  enabled = true
+  title = 'Cadence'
+  subtitle = 'Repertoire manager for gigging bands. Runs in Web and on Android with offline caching.'
+  imageUrl = 'images/logo.png'
+  imageWidth = 120
+  imageHeight = 120
+
+  [[params.profileMode.buttons]]
+    name = 'Open App'
+    url = 'https://cadence.app/'
+
+# ---------------
+# Socials
+# ---------------
+
+[[params.socialIcons]]
+  name = 'telegram'
+  url = 'https//t.me/nightnoryu'
+
+[[params.socialIcons]]
+  name = 'github'
+  url = 'https://github.com/nightnoryu'
+
+[params.label]
+  text = 'Cadence'
+
+[params.assets]
+  favicon = 'favicon.png'
