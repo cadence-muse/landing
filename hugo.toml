@@ -1,4 +1,4 @@
-baseURL = 'https://cadence.app/'
+baseURL = 'https://cadence.nightnoryu.com/'
 locale = 'en-us'
 title = 'Cadence'
 theme = 'PaperMod'
@@ -31,7 +31,7 @@ enableEmoji = true
 [[menu.main]]
   identifier = 'app'
   name = 'Open App'
-  url = 'https://cadence.app/'
+  url = 'https://app.cadence.nightnoryu.com/'
   weight = 4
 
 [[menu.main]]
@@ -54,7 +54,7 @@ enableEmoji = true
 
   [[params.profileMode.buttons]]
     name = 'Open App'
-    url = 'https://cadence.app/'
+    url = 'https://app.cadence.nightnoryu.com/'
 
 # ---------------
 # Socials
