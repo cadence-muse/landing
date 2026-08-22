@@ -1,7 +1,35 @@
 +++
 title = 'About'
-date = '2026-08-16T15:57:31+03:00'
+date = '2026-08-22T18:57:31+03:00'
 draft = false
 +++
 
-Coming soon.
+## Initial idea
+
+At the time I was playing with up to 3 bands and it was kind of hard to keep track of all of their songs and gigs.
+
+So I thought it would be nice to have a simple collaborative app to handle all of this. And here it is :)
+
+## Features
+
+- Bands participation - participate in several bands
+- Per-band repertoire - keeps a track database with keys, tempos and notes
+- Per-band setlists - gigs planning and collaboration
+
+## Screenshots
+
+{{< figure
+  src="/images/screenshots/home.png"
+  alt="Homepage"
+  caption="Homepage"
+  width="500px"
+  class="center"
+>}}
+
+{{< figure
+  src="/images/screenshots/band-screen.png"
+  alt="Band Screen"
+  caption="Band Screen"
+  width="500px"
+  class="center"
+>}}
