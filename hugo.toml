@@ -1,6 +1,6 @@
 baseURL = 'https://cadence.nightnoryu.com/'
 locale = 'en-us'
-title = 'Cadence'
+title = 'Cadence - Manage your gigs'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
