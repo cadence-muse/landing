@@ -54,7 +54,7 @@ enableEmoji = true
 
 [[params.socialIcons]]
   name = 'github'
-  url = 'https://github.com/nightnoryu'
+  url = 'https://github.com/cadence-muse'
 
 [params.label]
   text = 'Cadence'
