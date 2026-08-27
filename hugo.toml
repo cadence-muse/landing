@@ -28,6 +28,12 @@ enableEmoji = true
   url = 'https://app.cadence.nightnoryu.com'
   weight = 3
 
+[[menu.main]]
+  identifier = 'apk'
+  name = 'Download APK'
+  url = 'https://github.com/cadence-muse/client/releases/latest'
+  weight = 4
+
 # ---------------
 # Homepage
 # ---------------
