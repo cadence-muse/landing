@@ -41,7 +41,7 @@ enableEmoji = true
 [params.profileMode]
   enabled = true
   title = 'Cadence'
-  subtitle = 'Repertoire manager for musical bands.'
+  subtitle = 'Repertoire manager for musical bands. Works in Web and on Android with offline caching.'
   imageUrl = 'images/logo.webp'
   imageWidth = 180
   imageHeight = 180
